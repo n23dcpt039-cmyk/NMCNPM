@@ -1,0 +1,22 @@
+👋 Giới thiệu bản thân 
+
+Xin chào, tôi tên là [ĐẶNG THÚY NGỌC].  
+Hiện tại tôi đang là sinh viên ngành Công Nghệ Đa Phương Tiện tại [Học Viện Công Nghệ Bưu Chính Viễn Thông].
+
+🔹 Sở thích:
+- Vẽ tranh và thiết kế sản phẩm
+- Viết lách và chơi đàn
+- Thiết kế ứng dụng và truyền thông số
+
+
+🔹 Kỹ năng:
+- Ngôn ngữ lập trình: C++, HTML
+- Công cụ: Git, Visual Studio Code, Jira, MySQL  
+- Quy trình phát triển: Agile - Scrum, Waterfall
+
+🔹 Mục tiêu:
+- Trở thành designer chuyên nnghiệ  
+- Tham gia vào các dự án writer, artist trong cộng đồng design
+- Luôn học hỏi và cập nhật các công nghệ mới trong ngành công nghệ đa phương tiện
+
+Cảm ơn bạn đã đọc phần giới thiệu của tôi.
